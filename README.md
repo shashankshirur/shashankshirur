@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Shashank 👋
 
-<!--
-**shashankshirur/shashankshirur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer at BlackLine, working primarily in C#/.NET and Python, with a
+growing focus on cloud technologies (Azure).
 
-Here are some ideas to get you started:
+I enjoy digging into how systems are built under the hood — lately that's meant getting
+more involved in open-source, picking up issues in cloud-native tooling and contributing
+back to projects I find genuinely interesting rather than just easy. I'm also increasingly
+interested in LLMs and AI, and how they're changing the way software gets built.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+
+C# · .NET · Python · JavaScript · SQL · Azure
+
+## Find me
+
+[GitHub](https://github.com/shashankshirur)
