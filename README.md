@@ -1,6 +1,6 @@
 # Hi, I'm Shashank 👋
 
-Senior Software Engineer at BlackLine, working primarily in C#/.NET and Python, with a
+SWE at BlackLine, working primarily in C#/.NET and Python, with a
 growing focus on cloud technologies (Azure).
 
 I enjoy digging into how systems are built under the hood — lately that's meant getting
